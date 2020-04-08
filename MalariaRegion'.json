@@ -1,0 +1,470 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 }
+               ],
+    "fact": [
+              {
+                "dims": {
+                          "REGION": "Global",
+                          "YEAR": "2017",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "219 000 000 [202 800 000 - 262 000 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Global",
+                          "YEAR": "2016",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "216 600 000 [200 400 000 - 259 000 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Global",
+                          "YEAR": "2015",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "214 200 000 [198 700 000 - 257 200 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Global",
+                          "YEAR": "2014",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "217 100 000 [199 600 000 - 259 300 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Global",
+                          "YEAR": "2013",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "221 000 000 [200 500 000 - 266 200 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Global",
+                          "YEAR": "2012",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "226 400 000 [206 700 000 - 271 600 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Global",
+                          "YEAR": "2011",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "229 100 000 [210 500 000 - 273 200 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Global",
+                          "YEAR": "2010",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "238 800 000 [218 600 000 - 285 400 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2017",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "200 500 000 [184 500 000 - 243 600 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2016",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "195 500 000 [178 600 000 - 236 800 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2015",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "193 800 000 [178 100 000 - 235 200 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2014",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "196 200 000 [178 000 000 - 237 600 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2013",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "200 500 000 [180 500 000 - 243 700 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2012",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "201 200 000 [181 800 000 - 246 100 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2011",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "201 000 000 [182 500 000 - 244 200 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2010",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "206 300 000 [186 100 000 - 252 100 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2017",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "976 000 [880 000 - 1 128 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2016",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "712 000 [646 000 - 806 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2015",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "573 000 [528 000 - 635 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2014",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "482 000 [448 000 - 525 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2013",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "564 000 [523 000 - 621 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2012",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "581 000 [543 000 - 629 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2011",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "611 000 [566 000 - 668 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2010",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "814 000 [743 000 - 898 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2017",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "11 290 000 [8 565 000 - 14 840 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2016",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "14 230 000 [10 540 000 - 19 600 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2015",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "13 980 000 [10 990 000 - 18 270 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2014",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "13 500 000 [10 610 000 - 17 570 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2013",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "14 040 000 [11 050 000 - 17 930 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2012",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "18 700 000 [14 890 000 - 23 920 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2011",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "21 530 000 [16 870 000 - 27 930 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2010",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "25 530 000 [20 160 000 - 33 720 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2017",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2016",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2015",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2014",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2013",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2012",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "20"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2011",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "70"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2010",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "170"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2017",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "4 410 000 [3 633 000 - 5 561 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2016",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "4 498 000 [3 682 000 - 5 786 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2015",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "4 377 000 [3 344 000 - 7 908 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2014",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "4 552 000 [3 488 000 - 8 637 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2013",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "3 823 000 [2 918 000 - 5 336 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2012",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "4 087 000 [3 040 000 - 5 928 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2011",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "4 408 000 [3 269 000 - 6 399 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2010",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "4 255 000 [3 128 000 - 6 549 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2017",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "1 857 000 [1 395 000 - 2 399 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2016",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "1 736 000 [1 331 000 - 2 208 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2015",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "1 451 000 [1 123 000 - 1 849 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2014",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "2 354 000 [1 599 000 - 3 338 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2013",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "2 033 000 [1 313 000 - 2 912 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2012",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "1 888 000 [957 000 - 3 310 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2011",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "1 586 000 [921 000 - 2 375 000]"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2010",
+                          "GHO": "Estimated number of malaria cases"
+                        },
+                "Value": "1 838 000 [1 047 000 - 2 769 000]"
+              }
+      ]
+}
